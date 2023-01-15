@@ -1,0 +1,2 @@
+# Basic calculator with Pygame
+Some time ago I saw a tweet by a girl who did an amazing CSS drawing of a vintage calculator. Someone asked if it worked and she said that, that was crazy to do. So... lets se how hard this is :)
